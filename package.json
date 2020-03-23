@@ -1,0 +1,23 @@
+{
+  "name": "commitlint-config-eslint",
+  "version": "1.0.0",
+  "description": "Shareable commitlint config enforcing the ESLint commit convention.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admwx7/commitlint-config-eslint.git"
+  },
+  "keywords": [
+    "commitlint",
+    "eslint"
+  ],
+  "author": "Austin Murdock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/admwx7/commitlint-config-eslint/issues"
+  },
+  "homepage": "https://github.com/admwx7/commitlint-config-eslint#readme"
+}

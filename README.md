@@ -2,7 +2,7 @@
 
 # commitlint-config-eslint
 
-Shareable `commitlint` config enforcing the [Eslint commit convention](https://www.npmjs.com/package/conventional-changelog-eslint).
+Shareable `commitlint` config enforcing the [ESLint commit convention](https://www.npmjs.com/package/conventional-changelog-eslint).
 Use with [@commitlint/cli](../cli) and [@commitlint/prompt-cli](../prompt-cli).
 
 ## Getting started
